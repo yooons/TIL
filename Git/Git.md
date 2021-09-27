@@ -43,6 +43,16 @@
     🔹 생성된 commit을 push하기
     - git push origin master
 
+    🔹 원격 저장소의 변경사항을 로컬 저장소에 불러오기
+    - git pull origin master
+
+    🔹 원격 저장소를 내 컴퓨터에 불러오기
+    - git clone https://github.com/아이디/이름.git .
+        ❗️ 명령어 입력 후 dot을 입력해야 현재 폴더에 내려받아진다.
+        dot을 찍지 않을 경우에는 폴더가 생성됨.
+
+
+
 
 
     
